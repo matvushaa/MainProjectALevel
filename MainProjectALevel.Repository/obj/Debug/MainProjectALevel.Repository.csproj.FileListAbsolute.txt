@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\bin\Debug\MainProjectALevel.Repository.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\bin\Debug\MainProjectALevel.Repository.pdb
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\obj\Debug\MainProjectALevel.Repository.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\obj\Debug\MainProjectALevel.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\obj\Debug\MainProjectALevel.Repository.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.Repository\obj\Debug\MainProjectALevel.Repository.pdb

@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\bin\Debug\MainProjectALevel.BusinessLogic.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\bin\Debug\MainProjectALevel.BusinessLogic.pdb
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\obj\Debug\MainProjectALevel.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\obj\Debug\MainProjectALevel.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\obj\Debug\MainProjectALevel.BusinessLogic.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.BusinessLogic\obj\Debug\MainProjectALevel.BusinessLogic.pdb

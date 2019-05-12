@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\bin\Debug\MainProjectALevel.ViewModels.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\bin\Debug\MainProjectALevel.ViewModels.pdb
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\obj\Debug\MainProjectALevel.ViewModels.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\obj\Debug\MainProjectALevel.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\obj\Debug\MainProjectALevel.ViewModels.dll
+C:\Users\Home\source\repos\MainProjectALevel\MainProjectALevel.ViewModels\obj\Debug\MainProjectALevel.ViewModels.pdb
